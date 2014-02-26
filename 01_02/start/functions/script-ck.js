@@ -1,0 +1,1 @@
+var plus=function(e,t){return consol.log(e+t)};plus(2,2);

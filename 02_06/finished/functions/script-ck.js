@@ -1,0 +1,1 @@
+var plus=function(){var e=0;for(var t=arguments.length-1;t>=0;t--)e+=arguments[t];return e};console.log(plus(2,2,2,3,2,3,4));

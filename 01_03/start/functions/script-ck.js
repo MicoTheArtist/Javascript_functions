@@ -1,0 +1,1 @@
+function plus(e,t){return console.log(e+t),console.log(this),console.log(arguments)}plus(2,2);

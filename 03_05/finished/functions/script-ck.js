@@ -1,0 +1,1 @@
+var ray=function(){var e={say:"hello",speed:"normal"};return{speak:function(){var t=arguments[0]||"",n=t.say||e.say;console.log(n);return this},run:function(){var t=arguments[0]||"",n=t.speed||e.speed;console.log("running..."+n);return this}}}();
